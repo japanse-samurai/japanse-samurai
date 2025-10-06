@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hi, I'm Japanese-Samurai</h1>
 
 <p align="center">
-  <i>Digital warrior in the world of code</i>
+  <i>normal man</i>
 </p>
 
 ---
