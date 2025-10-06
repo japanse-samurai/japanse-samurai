@@ -22,3 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="AI / Machine Learning"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gamejolt/gamejolt-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="Game Psychic"/>
 </p>
+
+## status ✨️👾
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=japanse-samurai&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=japanse-samurai&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=japanse-samurai&theme=tokyonight)
+## outro🚶‍♂️
