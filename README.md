@@ -5,3 +5,9 @@
   </a>
 </p>
 ---
+
+##about me🚶‍♂️
+<b>I'm parsa ariaye, a developer from iran, and I live in turkey , Ankara from biklent University.👾 </b>
+> I started programming when I'm 14 years old 
+<b> now I work at crypto, connection for government control city. 
+---
