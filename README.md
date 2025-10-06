@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <i>“Code is my katana, logic is my armor.”</i>
+  <i>“not real”</i>
 </p>
