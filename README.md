@@ -28,3 +28,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=japanse-samurai&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=japanse-samurai&theme=tokyonight)
 ## outro🚶‍♂️
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<i> don't use tools from others </i>
