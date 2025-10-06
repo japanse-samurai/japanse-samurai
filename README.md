@@ -1,51 +1,108 @@
 <!-- README.md -->
 
-<p align="center">
-  <img src="https://github.com/github/readme-animation/raw/main/3d-animation.gif" width="300"/>
-</p>
+# Hi, I'm Japanese-Samurai ⚔️
 
-<h1 align="center">👋 Hi, I'm Japanese-Samurai</h1>
+> "world is not real"
 
-<p align="center">
-  <i>normal man</i>
-</p>
+![Header Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
+*Digital Samurai, coding across realities*
 
 ---
 
-## 💻 Skills & Technologies
+## 🔥 Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Assembly-6E6E6E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Shell-101010?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+| Language / Tool | Proficiency |
+|-----------------|------------|
+| Python | 💎💎💎💎💎 |
+| Assembly | 💎💎💎 |
+| C# | 💎💎💎💎 |
+| Bash / Shell | 💎💎💎💎 |
+| Linux | 💎💎💎💎💎 |
+| MySQL | 💎💎💎 |
+| JavaScript | 💎💎💎💎 |
+| Docker | 💎💎 |
+| AI / NLP | 💎💎💎💎 |
+| Telegram Bots | 💎💎💎💎 |
 
----
-
-## 📱 Connect with me
-
-<p align="center">
-  <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-soon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
+![Skills Animation](https://media.giphy.com/media/l0HlQ7LRal5Lvw4D6/giphy.gif)
 
 ---
 
-## ⚡ GitHub Stats
+## 🗂 Projects [soon]
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Japanse-samurai&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japanse-samurai&layout=compact&theme=radical" />
-</p>
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+  <div style="border-radius:15px; padding:15px; backdrop-filter:blur(8px); transition:0.3s; hover:scale(1.05);">
+    `telegram-support-bot`<br>
+    Advanced bot for Telegram support, modular and async<br>
+    Status: soon
+  </div>
+  <div style="border-radius:15px; padding:15px; backdrop-filter:blur(8px); transition:0.3s; hover:scale(1.05);">
+    `AI Samurai Engine`<br>
+    Personal AI assistant & code generator<br>
+    Status: soon
+  </div>
+  <div style="border-radius:15px; padding:15px; backdrop-filter:blur(8px); transition:0.3s; hover:scale(1.05);">
+    `CyberStealth`<br>
+    CyberSec & penetration testing tools<br>
+    Status: soon
+  </div>
+  <div style="border-radius:15px; padding:15px; backdrop-filter:blur(8px); transition:0.3s; hover:scale(1.05);">
+    `QuantumBot`<br>
+    AI bot with quantum-inspired neural architecture<br>
+    Status: soon
+  </div>
+  <div style="border-radius:15px; padding:15px; backdrop-filter:blur(8px); transition:0.3s; hover:scale(1.05);">
+    `RustGamers`<br>
+    Game engine simulation inspired by Rust<br>
+    Status: soon
+  </div>
+</div>
+
+![Projects GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 ---
 
-<p align="center">
-  <i>“not real”</i>
-</p>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=japanse-samurai&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=japanse-samurai&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=japanse-samurai&theme=radical)
+
+---
+
+## 🌐 Connect with me [soon]
+
+| Platform | Link | Status |
+|----------|------|--------|
+| Telegram | [soon](https://t.me/japanse_samurai) | soon |
+| GitHub | [soon](https://github.com/japanse-samurai) | soon |
+| LinkedIn | [soon](#) | soon |
+| Twitter | [soon](#) | soon |
+| YouTube | [soon](#) | soon |
+
+![Connect Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+---
+
+## 💬 Motto
+
+> "world is not real"  
+> *— Living as a Digital Samurai in the Code Realm*  
+
+![Motto GIF](https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif)
+
+---
+
+## 🚀 Coming Soon [soon]
+
+- Portfolio website ✨ soon  
+- Interactive 3D profile view 🕶️ soon  
+- Full automation tools 🤖 soon  
+- AI & Quantum experiments ⚛️ soon  
+- Secret samurai projects 🗡️ soon  
+
+![Coming Soon Animation](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
+
+---
+
+> **Japanese-Samurai** © 2025 | All rights reserved
