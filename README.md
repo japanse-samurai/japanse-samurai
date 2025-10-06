@@ -11,15 +11,16 @@
 > I started programming when I'm 14 years old <  
 <b> now I work at crypto, connection for government control city. 
 ---
-
-## my skills 👾
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" />
-</p>
-
+## 🔥 Skills ⚔️
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="AI / Machine Learning"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networking/networking-plain.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="Networking"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="Games Graphic"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gamejolt/gamejolt-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="Game Psychic"/>
 </p>
