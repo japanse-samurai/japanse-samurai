@@ -12,16 +12,7 @@
 <b> now I work at crypto, connection for government control city. 
 ---
 ## 🔥 Skills ⚔️
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="AI / Machine Learning"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gamejolt/gamejolt-original.svg" width="50" height="50" style="filter: drop-shadow(0 0 10px #00FF00);" title="Game Psychic"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,js,csharp,shell,linux,c)](https://skillicons.dev)
 
 ## status ✨️👾
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=japanse-samurai&show_icons=true&theme=tokyonight)
