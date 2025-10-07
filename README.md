@@ -12,12 +12,112 @@
 <b> now I work at crypto, connection for government control city. 
 ---
 ## 🔥 Skills ⚔️
-<b>languages 🔨</b>
-[![My Skills](https://skillicons.dev/icons?i=python,js,c,c++,c#,bash,shell)](https://skillicons.dev)
-<b>databases🔨 </b>
-[![My Skills](https://skillicons.dev/icons?i=mysql,postagresql)](https://skillicons.dev)
-<b>🔨frameworks</b>
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,macOS)](https://skillicons.dev)
+### 💻 Languages
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="55"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="55"/><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="55"/><br/>
+      <sub><b>C#</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="55"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="55"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Frameworks & Libraries
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/><br/>
+      <sub><b>React Native</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="55"/><br/>
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=django&theme=dark" width="55"/><br/>
+      <sub><b>Django</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Databases & Cache
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="55"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="55"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="55"/><br/>
+      <sub><b>Redis</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ DevOps & Infrastructure
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="55"/><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="55"/><br/>
+      <sub><b>Nginx</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="55"/><br/>
+      <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="55"/><br/>
+      <sub><b>Bash</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="55"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🧠 AI / Machine Learning
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="55"/><br/>
+      <sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="55"/><br/>
+      <sub><b>PyTorch</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 ## status ✨️👾
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=japanse-samurai&show_icons=true&theme=tokyonight)
