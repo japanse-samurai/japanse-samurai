@@ -12,7 +12,12 @@
 <b> now I work at crypto, connection for government control city. 
 ---
 ## 🔥 Skills ⚔️
-[![My Skills](https://skillicons.dev/icons?i=python,js,csharp,shell,linux,c)](https://skillicons.dev)
+<b>languages 🔨</b>
+[![My Skills](https://skillicons.dev/icons?i=python,js,c,c++,c#,bash,shell)](https://skillicons.dev)
+<b>databases🔨 </b>
+[![My Skills](https://skillicons.dev/icons?i=mysql,postagresql)](https://skillicons.dev)
+<b>🔨frameworks</b>
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,macOS)](https://skillicons.dev)
 
 ## status ✨️👾
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=japanse-samurai&show_icons=true&theme=tokyonight)
