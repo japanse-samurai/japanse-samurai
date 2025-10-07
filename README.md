@@ -7,9 +7,13 @@
 ---
 
 ## about me🚶‍♂️
-<b>I'm parsa ariaye, a developer from iran, and I live in turkey , Ankara from biklent University.👾 </b>
-> I started programming when I'm 14 years old <  
-<b> now I work at crypto, connection for government control city. 
+I'm parsa ariaye, a developer from iran, and I live in turkey , Ankara from biklent University.👾
+- pass 170 IQ test from University of bilkent🧠
+- create slepp alarm system for cars🏎️
+- create 15 telegram bots 🤖
+- create 3 web site 🌐
+- find the fastest way to calibrate cameras and system/board screen⚡
+
 ---
 ## 🔥 Skills ⚔️
 ### 💻 Languages
@@ -123,11 +127,17 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=japanse-samurai&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=japanse-samurai&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=japanse-samurai&theme=tokyonight)
+
+
+---
+## connect with me 🗺️
+  <a href="https://t.me/soon"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+
 ## outro🚶‍♂️
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
-
 <i> don't use tools from others </i>
