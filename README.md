@@ -7,7 +7,7 @@
 ---
 
 ## about me🚶‍♂️
-I'm parsa ariaye, a developer from iran, and I live in turkey , Ankara from biklent University.👾
+I'm parsa ariaye, a developer from iran, and I live in turkey , Ankara from bilkent University.👾
 - pass 170 IQ test from University of bilkent🧠
 - create sleep alarm system for cars🏎️
 - create 15 telegram bots 🤖
