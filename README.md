@@ -17,7 +17,12 @@ I'm parsa ariaye, a developer from iran, and I live in turkey , Ankara from bilk
 ---
 ## 🔥 Skills ⚔️
 
-
+[![PowerShell]](https://docs.microsoft.com/powershell "PowerShell")  
+[![Python]](https://www.python.org "Python")  
+[![React]](https://reactjs.org "React")  
+[![Ruby]](https://www.ruby-lang.org "Ruby")  
+[![Rust]](https://www.rust-lang.org "Rust")  [![JavaScript]](https://en.wikipedia.org/wiki/JavaScript "JavaScript")  [![Git]](https://git-scm.com "Git")  
+[![GitHub]](https://github.com "GitHub")  [![Go]](https://golang.org "Go")  
 
 ## status ✨️👾
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=japanse-samurai&show_icons=true&theme=tokyonight)
