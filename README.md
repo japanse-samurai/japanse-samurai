@@ -22,10 +22,7 @@ I'm parsa ariaye, a developer from iran, and I live in turkey , Ankara from bilk
 
 ---
 ## tech staks👾
-<i class="ci ci-python ci-3x"></i>
-<i class="ci ci-javascript ci-3x"></i>
-<i class="ci ci-html5 ci-3x"></i>
-<i class="ci ci-css3 ci-3x"></i>
+<i class="ci ci-git ci-md"></i>
 
 ## status ✨️👾
 [![parsa's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=parsa-ariaye\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
