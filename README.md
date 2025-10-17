@@ -29,9 +29,16 @@ I'm parsa ariaye, a developer from iran, and I live in turkey , Ankara from bilk
 ---
 
 ## tech staks👾
-
-[![Python]](https://www.python.org "Python")[![React]](https://reactjs.org "React")[![Ruby]](https://www.ruby-lang.org "Ruby")[![Rust]](https://www.rust-lang.org "Rust")[![PowerShell]](https://docs.microsoft.com/powershell "PowerShell") [![PostgreSQL]](https://www.postgresql.org "PostgreSQL")  [![Markdown]](https://www.markdownguide.org "Markdown")  [![JavaScript]](https://en.wikipedia.org/wiki/JavaScript "JavaScript")  [![Go]](https://golang.org "Go")  [![Git]](https://git-scm.com "Git")  
-[![GitHub]](https://github.com "GitHub")  [![C++]](https://en.wikipedia.org/wiki/C%2B%2B "C++")  
+[Bootstrap]: https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&labelColor=7952B3&logoColor=ffffff&logo=bootstrap
+[Bower]: https://img.shields.io/badge/Bower-EF5734?style=for-the-badge&labelColor=ffcc2f&logoColor=EF5734&logo=bower
+[C++]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=01427d&logoColor=6295cb&logo=cplusplus
+[Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=F05032&logoColor=ffffff&logo=git
+[GitHub]: https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&labelColor=181717&logoColor=ffffff&logo=github
+[Go]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&labelColor=7fd5eb&logoColor=00ADD8&logo=go
+[Markdown]: https://img.shields.io/badge/Markdown-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=markdown
+[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=ffffff&logoColor=4169E1&logo=postgresql
+[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=ffffff&logoColor=F7DF1E&logo=javascript
+  
 
 
 ## status ✨️👾
