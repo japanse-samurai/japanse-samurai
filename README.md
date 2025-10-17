@@ -35,7 +35,7 @@ I'm parsa ariaye, a developer from iran, and I live in turkey , Ankara from bilk
 ## status ✨️👾
 [![parsa's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=parsa-ariaye\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![parsa's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=parsa-ariaye\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-ariaye&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-ariaye&layout=pie)](https://github.com/parsa-ariaye/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parsa-ariaye&repo=telegram-support-bot)](https://github.com/parsa-ariaye/telegram-support-bot)
 <img src="https://img.icons8.com/?size=100&id=Bj1vcU6y7wT0&format=png&color=000000">
 ---
