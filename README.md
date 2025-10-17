@@ -30,7 +30,7 @@ I'm parsa ariaye, a developer from iran, and I live in turkey , Ankara from bilk
 
 ## tech staks👾
 
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=62133&format=png&color=000000">
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=62133&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=122637&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=mUBILbYvUMq8&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000">
 
 ## status ✨️👾
 [![parsa's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=parsa-ariaye\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
