@@ -21,10 +21,8 @@ I'm parsa ariaye, a developer from iran, and I live in turkey , Ankara from bilk
 ![Linux](https://img.shields.io/badge/linux-%23E34F26.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ## status ✨️👾
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=japanse-samurai&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=japanse-samurai&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=japanse-samurai&theme=tokyonight)
-
+[![parsa's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=parsa-ariaye\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![parsa's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=parsa-ariaye\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
 ---
 ## connect with me 🗺️
