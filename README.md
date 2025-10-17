@@ -27,9 +27,13 @@ I'm parsa ariaye, a developer from iran, and I live in turkey , Ankara from bilk
 - find the fastest way to calibrate cameras and system/board screen⚡
 
 ---
+
 ## tech staks👾
-<i class="ci ci-git ci-md"></i>
-<i class="ci ci-git ci-md"></i>
+
+[![Python]](https://www.python.org "Python")[![React]](https://reactjs.org "React")[![Ruby]](https://www.ruby-lang.org "Ruby")[![Rust]](https://www.rust-lang.org "Rust")[![PowerShell]](https://docs.microsoft.com/powershell "PowerShell") [![PostgreSQL]](https://www.postgresql.org "PostgreSQL")  [![Markdown]](https://www.markdownguide.org "Markdown")  [![JavaScript]](https://en.wikipedia.org/wiki/JavaScript "JavaScript")  [![Go]](https://golang.org "Go")  [![Git]](https://git-scm.com "Git")  
+[![GitHub]](https://github.com "GitHub")  [![C++]](https://en.wikipedia.org/wiki/C%2B%2B "C++")  
+
+
 ## status ✨️👾
 [![parsa's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=parsa-ariaye\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![parsa's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=parsa-ariaye\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
