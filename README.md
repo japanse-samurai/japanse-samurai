@@ -44,9 +44,15 @@ I'm parsa ariaye, a developer from iran, and I live in turkey , Ankara from bilk
 
 
 ## outro🚶‍♂️
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center">
+    <img  src="./icon/github-contribution-grid-snake.svg" />
+    <br />
+    <img width="40%"  src="./images/catcoding.gif" alt="catcoding" />
+    <img width="40%" src="./images/coding.gif" alt="coding" />
+    <img width="40%" src="./images/techstack.gif" alt="techstack" />
+    <img width="40%" src="./images/giphy.gif" alt="techstack" />
+    <img width="40%" src="./images/giphy2.gif" alt="techstack" />
+</div>
 
 ---
 <i> "don't use tools from others" </i>
