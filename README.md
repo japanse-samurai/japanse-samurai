@@ -9,7 +9,7 @@
   href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@master/app/ci.min.css"
 />
 
-# Hy, I'm Parsa Ariaye <img src="https://img.icons8.com/?size=5&id=98A4yZTt9abw&format=png&color=000000">
+# Hy, I'm Parsa Ariaye <img src="https://img.icons8.com/?size=40&id=98A4yZTt9abw&format=png&color=000000">
 <p align="center">
   <a href="https://github.com/japanse-samurai">
     <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Frontend+developer+|+tg+developer;machine+learning+|+networke;creating+tools;good+luck!;!!!%E2%9C%A8" />
