@@ -17,8 +17,10 @@ I'm parsa ariaye, a developer from iran, and I live in turkey , Ankara from bilk
 
 ---
 ## tech staks👾
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=black) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=black) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=black) ![python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=black)
-![Linux](https://img.shields.io/badge/linux-%23E34F26.svg?style=for-the-badge&logo=linux&logoColor=black)
+<i class="ci ci-python ci-3x"></i>
+<i class="ci ci-javascript ci-3x"></i>
+<i class="ci ci-html5 ci-3x"></i>
+<i class="ci ci-css3 ci-3x"></i>
 
 ## status ✨️👾
 [![parsa's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=parsa-ariaye\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
