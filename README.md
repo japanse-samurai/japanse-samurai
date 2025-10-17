@@ -3,6 +3,12 @@
   href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.6/app/ci.min.css"
 />
 
+
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@master/app/ci.min.css"
+/>
+
 # Hy, I'm Parsa Ariaye✨️
 <p align="center">
   <a href="https://github.com/japanse-samurai">
