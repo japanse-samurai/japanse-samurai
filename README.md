@@ -12,7 +12,7 @@
 # Hy, I'm Parsa Ariaye <img src="https://img.icons8.com/?size=30&id=98A4yZTt9abw&format=png&color=000000">
 <p align="center">
   <a href="https://github.com/japanse-samurai">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Frontend+developer+|+tg+developer;machine+learning+|+networke;creating+tools;good+luck!;!!!%E2%9C%A8" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Frontend+developer+|+tg+developer;machine+learning+|+network;creating+tools;good+luck!;!!!%E2%9C%A8" />
   </a>
 </p>
 
